@@ -1,4 +1,4 @@
-﻿namespace Saad1802DesAes
+﻿namespace DesAes
 {
     partial class Des
     {

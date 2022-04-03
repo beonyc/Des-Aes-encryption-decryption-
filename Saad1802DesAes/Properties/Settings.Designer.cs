@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Saad1802DesAes.Properties
+namespace DesAes.Properties
 {
 
 

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Security.Cryptography;
 using System.IO;
 
-namespace Saad1802DesAes
+namespace DesAes
 {
     public partial class Aes : Form
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Saad1802DesAes
+namespace DesAes
 {
     public static class Program
     {
